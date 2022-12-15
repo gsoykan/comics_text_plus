@@ -1,4 +1,4 @@
-# Robust Comics Text Dataset: COMICS TEXT+ & OCR Pipeline for Comics
+# Improving OCR Data for Comics Research: A Benchmark and Analysis
 
 The purpose of this work is to enable research on comics by improving the text quality of the largest comics dataset shared in [COMICS](https://arxiv.org/abs/1611.05118). During the process of generating high-quality text data, text detection and recognition models are trained and selected to create an end-to-end SOTA OCR pipeline for comics. The models are trained with custom-labeled data that we also share for text detection and recognition tasks.
 
@@ -6,7 +6,7 @@ The purpose of this work is to enable research on comics by improving the text q
 
 ## Description
 
-This repository includes pointers to the code and data described in [Robust Comics Text Dataset: COMICS TEXT+ & OCR Pipeline for Comics](add-arxiv.link)
+This repository includes pointers to the code and data described in [Improving OCR Data for Comics Research: A Benchmark and Analysis](add-arxiv.link)
 
 ## Getting Started
 
