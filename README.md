@@ -20,7 +20,7 @@ This repository includes pointers to the code and data described in [Improving O
 
 - **Finetuned text recognition model, MASTER** can be accessed [here](https://drive.google.com/drive/folders/1zczO8XOpNBkepDreTPaqaj31pk_wHRCj?usp=sharing). This is fine-tuned with 'COMICS Text+: Text Recognition' dataset and it is our most performant model.
 
-- **Ground Truth** Data for evaluation: texts of 501 random textboxes are prepared. GT is used for evaluation and comparison between COMICS and COMICS TEXT+. GT can be accessed [here](https://drive.google.com/drive/folders/1MjlXQF9GhNS3ZgSFqZw2j_X3uUjDpSKb?usp=sharing)
+- **Ground Truth** Data for evaluation: texts of 500 random textboxes are prepared. GT is used for evaluation and comparison between COMICS and COMICS TEXT+. GT can be accessed [here](https://drive.google.com/drive/folders/1MjlXQF9GhNS3ZgSFqZw2j_X3uUjDpSKb?usp=sharing)
 
 ### Dependencies
 
