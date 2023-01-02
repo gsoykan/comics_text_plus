@@ -6,7 +6,7 @@ The purpose of this work is to enable research on comics by improving the text q
 
 ## Description
 
-This repository includes pointers to the code and data described in [Improving OCR Data for Comics Research: A Benchmark and Analysis](add-arxiv.link)
+This repository includes pointers to the code and data described in [A Comprehensive Gold Standard and Benchmark for Comics Text Detection and Recognition](http://arxiv.org/abs/2212.14674)
 
 ## Getting Started
 
