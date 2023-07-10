@@ -1,3 +1,5 @@
+## You can easily run the models with [comics-ocr](https://github.com/gsoykan/comics_ocr) package!
+
 # A Comprehensive Gold Standard and Benchmark for Comics Text Detection and Recognition
 
 The purpose of this work is to enable research on comics by improving the text quality of the largest comics dataset shared in [COMICS](https://arxiv.org/abs/1611.05118). During the process of generating high-quality text data, text detection and recognition models are trained and selected to create an end-to-end SOTA OCR pipeline for comics. The models are trained with custom-labeled data that we also share for text detection and recognition tasks.
